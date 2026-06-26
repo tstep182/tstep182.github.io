@@ -1,0 +1,9 @@
+Use the Snipping Tool and Windows Photos app to create and resize PDF thumbnails:
+
+1. Open the PDF file
+2. Use Snipping Tool to save its image as a PNG file
+3. Open the PNG file in Windows Photos
+4. Click the "..." icon on the top left part of the ribbon
+5. Select "Resize image"
+6. Set the appropriate width (typically 300-500px); the app will automatically reset the height accordingly
+7. Save the changes and upload the file to GitHub (into the appropriate /assets/thumbnails folder)
