@@ -2,6 +2,8 @@
 layout: home
 ---
 
-We're here to give non-standard takes on a variety of important bible topics. Check out our PDF cheat sheets below:
+We're here to present unorthodox viewpoints on a variety of important bible topics. 
 
-[Sola Scriptura](/cheat-sheets/sola-scriptura.md), and add your comments below.
+Check out our PDF cheat sheets below!
+
+[Sola Scriptura](/cheat-sheets/sola-scriptura.md)
