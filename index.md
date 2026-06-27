@@ -2,9 +2,7 @@
 layout: home
 ---
 
-## New Testament Cheat Sheets
-
-We're here to present unorthodox viewpoints on a variety of important bible topics. 
+Welcome! We're here to present unorthodox viewpoints on a variety of important Bible topics. 
 
 Check out our PDF cheat sheets below!
 
