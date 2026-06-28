@@ -2,8 +2,8 @@
 layout: home
 ---
 
-Welcome! We're here to present concise unorthodox material about a variety of important Bible topics, so check out our PDF cheat sheets below. 
+Welcome! We focus on presenting concise unorthodox material about a variety of important biblical topics, so check out our downloadable PDF cheat sheets below. 
 
-Evangelicals, brace yourselves!
+This is also a place to discuss those topics, so there's a comments section for each page. Everyone is encouraged to read the comments, but posting your own requires a free GitHub account.
 
-[Sola Scriptura](/cheat-sheets/sola-scriptura.md)
+- [Sola Scriptura](/cheat-sheets/sola-scriptura.md)
